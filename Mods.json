@@ -1,14 +1,13 @@
 {
-  "testmod": {
+  "mods": [{
     "name": "test mod",
     "version": "1.0.0",
     "link": "git clone https://github.com/KoT3isGood/LeakersModClient",
     "image": "https://cdn.discordapp.com/attachments/965576610415783966/1154047813508923402/image.png"
-  },
-  "testmod2": {
+  },{
     "name": "test mod 2.0",
     "version": "1.1.1",
     "link": "git clone https://github.com/KoT3isGood/LeakersModClient",
     "image": "https://cdn.discordapp.com/attachments/965576610415783966/1154047813508923402/image.png"
-  }
+  }]
 }
