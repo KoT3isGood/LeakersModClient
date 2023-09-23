@@ -1,12 +1,24 @@
 {
   "mods": [{
-    "name": "test mod",
+    "name": "Stud Valley Map",
     "version": "1.0.0",
+    "BrickRigsVersion": "Legacy",
+    "author": "like47ak"
     "link": "git clone https://github.com/Like47ak/Ak-s-Brick-Rigs-Projects",
     "image": "https://cdn.discordapp.com/attachments/965576610415783966/1154047813508923402/image.png"
   },{
     "name": "test mod 2.0",
     "version": "1.1.1",
+    "BrickRigsVersion": "1.2+",
+    "author": "who knows?"
+    "link": "git clone https://github.com/KoT3isGood/LeakersModClient",
+    "image": "https://cdn.discordapp.com/attachments/965576610415783966/1154047813508923402/image.png"
+  },{
+    "name": "Ray Traced Rigs",
+    "version": "2.0 Build 3",
+    "BrickRigsVersion": "1.2+",
+    "description": "Adds Ray Tracing Into Brick Rigs"
+    "author": "kotofyt"
     "link": "git clone https://github.com/KoT3isGood/LeakersModClient",
     "image": "https://cdn.discordapp.com/attachments/965576610415783966/1154047813508923402/image.png"
   }]
