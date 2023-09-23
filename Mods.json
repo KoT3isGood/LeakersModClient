@@ -14,7 +14,7 @@
     "description": "Bananas and wallhack mod",
     "author": "who knows?",
     "link": "git clone https://github.com/KoT3isGood/LeakersModClient",
-    "image": "https://cdn.discordapp.com/attachments/965576610415783966/1154047813508923402/image.png"
+    "image": ""
   },{
     "name": "Ray Traced Rigs",
     "version": "2.0 Build 3",
@@ -22,6 +22,6 @@
     "description": "Adds Ray Tracing Into Brick Rigs",
     "author": "kotofyt",
     "link": "git clone https://github.com/KoT3isGood/LeakersModClient",
-    "image": "https://cdn.discordapp.com/attachments/965576610415783966/1154047813508923402/image.png"
+    "image": ""
   }]
 }
