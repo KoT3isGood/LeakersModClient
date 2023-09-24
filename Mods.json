@@ -1,6 +1,6 @@
 {
   "mods": [{
-    "name": "Ray Traced Rigs 1",
+    "name": "Ray Traced Rigs",
     "version": "2.0.0",
     "BrickRigsVersion": "1.2+",
     "description": "Ray Traced Rigs adds Ray Tracing in Brick Rigs, you can change options in Video Settings",
