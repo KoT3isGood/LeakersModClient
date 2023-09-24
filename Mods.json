@@ -1,11 +1,12 @@
 {
   "mods": [{
-    "name": "Hello World Mod",
-    "version": "1.0.0 Test Mod",
-    "BrickRigsVersion": "Legacy",
-    "description": "The best map in the Brick Rigs lmao",
+    "name": "Ray Traced Rigs",
+    "version": "2.0.0",
+    "BrickRigsVersion": "1.2+",
+    "description": "Ray Traced Rigs adds Ray Tracing in Brick Rigs, you can change options in Video Settings",
     "author": "kotofyt",
-    "link": "git clone https://github.com/KoT3isGood/LeakersModClient",
+    "link": "git clone https://github.com/KoT3isGood/RayTracedRigs",
+    "folderName":"RayTracedRigs",
     "image": "https://cdn.discordapp.com/attachments/965576610415783966/1154047813508923402/image.png"
   }]
 }
