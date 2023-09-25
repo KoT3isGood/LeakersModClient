@@ -9,7 +9,7 @@
     "linkType":"1",
     "folderName":"RayTracedRigs",
     "image": "https://cdn.discordapp.com/attachments/751767065970475093/1150443418967879731/image.png",
-    "note":"1"
+    "note":"2"
   },{
     "name": "1s Detonator and 1s RC Reciever",
     "version": "1.0.0",
@@ -25,12 +25,100 @@
     "name": "Vanilla Style Guns",
     "version": "30s",
     "BrickRigsVersion": "1.5+",
-    "description": "DEVELOPMENT: DO NOT INSTALL, OTHERWISE YOU WILL BREAK THE LAUNCHER",
+    "description": "ONLY Available in 1.2 Version of app",
     "author": "kvthetank",
     "link": "https://drive.google.com/file/d/19bLVg0dziRKki0su5rdHsDtFRfgWO-Ak/view",
     "linkType":"2",
     "folderName":"VSG30s",
     "image": "https://streamable.com/i5iu13",
     "note":"2"
+  },{
+    "name": "",
+    "version": "Gyrothruster Update",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "kvthetank",
+    "link": "https://drive.google.com/file/d/1NtixQJeEFfBLRS6m9B9CYM6tMyMunXW9/view",
+    "linkType":"2",
+    "folderName":"VSG",
+    "image": "https://streamable.com/78l9nq",
+    "note":"2"
+  },{
+    "name": "Bob Fish",
+    "version": "1.0.0",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "kvthetank",
+    "link": "https://drive.google.com/file/d/1NtixQJeEFfBLRS6m9B9CYM6tMyMunXW9/view",
+    "linkType":"2",
+    "folderName":"BobFish",
+    "image": "https://cdn.discordapp.com/attachments/751767065970475093/1142176689795907666/image.png",
+    "note":"2"
+  },{
+    "name": "Bob With Feet",
+    "version": "1.0.0",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "kvthetank",
+    "link": "https://drive.google.com/file/d/1jspWrJ6xvJiHpBKedpCbPTGrhX5U8akI/view",
+    "linkType":"2",
+    "folderName":"BWF",
+    "image": "https://cdn.discordapp.com/attachments/751767065970475093/1142162749271589015/image.png",
+    "note":"2"
+  },{
+    "name": "Nutty Fire and FX",
+    "version": "1.0.0",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "kvthetank",
+    "link": "https://drive.google.com/file/d/192JpyiYvbh7Rkgrx-lcfUqNopQGDhxo-/view",
+    "linkType":"2",
+    "folderName":"NFF",
+    "image": "https://streamable.com/sqoqx3",
+    "note":"1"
+  },{
+    "name": "Yorkdale County",
+    "version": "2.5",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "gregmaster420",
+    "link": "https://drive.google.com/file/d/1SYleQfFefdMjr9O8c24L73wHiRAVtWlM/view",
+    "linkType":"2",
+    "folderName":"Yorkdale",
+    "image": "https://www.youtube.com/watch?v=YRvOePz2OqQ",
+    "note":"1"
+  },{
+    "name": "Yorkdale County",
+    "version": "2.5 without trees",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "gregmaster420",
+    "link": "https://drive.google.com/file/d/1vLsPmKeurY8eg8ELOszmBtByMYyP17x8/view",
+    "linkType":"2",
+    "folderName":"YorkdaleT",
+    "image": "https://www.youtube.com/watch?v=YRvOePz2OqQ",
+    "note":"1"
+  },{
+    "name": "Taslina",
+    "version": "1.1",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "gregmaster420",
+    "link": "https://drive.google.com/file/d/1Z4apwRMlifeK7zNylHdTYGNjA89qNxel/view",
+    "linkType":"2",
+    "folderName":"Taslina",
+    "image": "https://www.youtube.com/watch?v=YRvOePz2OqQ",
+    "note":"1"
+  },{
+    "name": "Taslina",
+    "version": "1.1 Tree purge",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "gregmaster420",
+    "link": "https://drive.google.com/file/d/1a7hEwuIoCQjv6-UFIGNGxaFwpyKAjrXG/view",
+    "linkType":"2",
+    "folderName":"Taslina",
+    "image": "https://www.youtube.com/watch?v=YRvOePz2OqQ",
+    "note":"1"
   }]
 }
