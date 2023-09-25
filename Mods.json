@@ -6,6 +6,7 @@
     "description": "Ray Traced Rigs adds Ray Tracing in Brick Rigs, you can change options in Video Settings",
     "author": "kotofyt",
     "link": "git clone https://github.com/KoT3isGood/RayTracedRigs",
+    "linkType":"1",
     "folderName":"RayTracedRigs",
     "image": "https://cdn.discordapp.com/attachments/751767065970475093/1150443418967879731/image.png"
   },{
@@ -15,6 +16,7 @@
     "description": "This mod will be replaced with coming mod made by me and Bondrewd",
     "author": "kotofyt",
     "link": "git clone https://github.com/KoT3isGood/BRPP",
+    "linkType":"1",
     "folderName":"BRPP",
     "image": "https://cdn.discordapp.com/attachments/751767065970475093/1150443418967879731/image.png"
   }]
