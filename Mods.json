@@ -22,6 +22,17 @@
     "image": "https://cdn.discordapp.com/attachments/1062368535210381394/1148692949639630859/image.png",
     "note":"2"
   },{
+    "name": "Fire Mode Keybind",
+    "version": "1.0.0",
+    "BrickRigsVersion": "1.5+",
+    "description": "Adds -Cycle Fire Mode-, ONLY Available in 1.2 Version of app",
+    "author": "kotofyt",
+    "link": "https://drive.google.com/file/d/1YwSZTBRiAiWGk1loj_YRg_HIACaKvmdP/view",
+    "linkType":"2",
+    "folderName":"BRPP",
+    "image": "https://cdn.discordapp.com/attachments/1062368535210381394/1148692949639630859/image.png",
+    "note":"2"
+  },{
     "name": "Vanilla Style Guns",
     "version": "30s",
     "BrickRigsVersion": "1.5+",
