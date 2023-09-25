@@ -110,6 +110,61 @@
     "image": "https://www.youtube.com/watch?v=YRvOePz2OqQ",
     "note":"1"
   },{
+    "name": "Wuhu Island",
+    "version": "1.0",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "loppyster",
+    "link": "https://drive.google.com/file/d/1XVlwW9Ib-e-yNXZMMejcJx1GBKhDpiP7/view",
+    "linkType":"2",
+    "folderName":"Wuhu",
+    "image": "https://cdn.discordapp.com/attachments/742984260570579036/1142256656332357652/image.png",
+    "note":"1"
+  },{
+    "name": "Minecraft Royal Manor",
+    "version": "1.0",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "loppyster",
+    "link": "https://drive.google.com/file/d/1M22R5l_w3_46zXc0o1UBKHNpOAHayV2c/view",
+    "linkType":"2",
+    "folderName":"MinecraftRM",
+    "image": "https://cdn.discordapp.com/attachments/742984260570579036/1142229501913337967/image.png",
+    "note":"1"
+  },{
+    "name": "Mountain City",
+    "version": "1.0",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "gregmaster420",
+    "link": "https://drive.google.com/file/d/1s-tXTbwSAUYzJTmqcxFfz3mezxbBKjxU/view",
+    "linkType":"2",
+    "folderName":"Taslina",
+    "image": "https://cdn.discordapp.com/attachments/742984260570579036/1139729477241421914/image.png",
+    "note":"1"
+  },{
+    "name": "Eagle Island",
+    "version": "2.0",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "fedorakid",
+    "link": "https://drive.google.com/file/d/17dH2F2GHEzBYCc6pb9raVxLnBeozNcPD/view",
+    "linkType":"2",
+    "folderName":"Taslina",
+    "image": "https://cdn.discordapp.com/attachments/742984260570579036/1137397908149370981/20230718154224_1.jpg",
+    "note":"1"
+  },{
+    "name": "Le Circuit De La Bob",
+    "version": "FIX",
+    "BrickRigsVersion": "1.5+",
+    "description": "ONLY Available in 1.2 Version of app",
+    "author": "vysch",
+    "link": "https://drive.google.com/file/d/1f_wBbVteGKS38txH64kyCIMtsJ7bCEHY/view?usp=sharing",
+    "linkType":"2",
+    "folderName":"Taslina",
+    "image": "https://www.youtube.com/watch?v=YRvOePz2OqQ",
+    "note":"1"
+  },{
     "name": "Taslina",
     "version": "1.1 Tree purge",
     "BrickRigsVersion": "1.5+",
