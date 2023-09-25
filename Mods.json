@@ -9,7 +9,7 @@
     "linkType":"1",
     "folderName":"RayTracedRigs",
     "image": "https://cdn.discordapp.com/attachments/751767065970475093/1150443418967879731/image.png",
-    "note":""
+    "note":"Class 1"
   },{
     "name": "1s Detonator and 1s RC Reciever",
     "version": "1.0.0",
@@ -20,7 +20,7 @@
     "linkType":"1",
     "folderName":"BRPP",
     "image": "https://cdn.discordapp.com/attachments/1062368535210381394/1148692949639630859/image.png",
-    "note":"Has AssetRegisrty, so it doesnt work with other mods"
+    "note":"Class 2"
   },{
     "name": "Vanilla Style Guns",
     "version": "30s",
@@ -31,6 +31,6 @@
     "linkType":"2",
     "folderName":"VSG30s",
     "image": "https://streamable.com/i5iu13",
-    "note":"Has AssetRegisrty, so it doesnt work with other mods"
+    "note":"Class 2"
   }]
 }
