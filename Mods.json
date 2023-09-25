@@ -8,7 +8,8 @@
     "link": "git clone https://github.com/KoT3isGood/RayTracedRigs",
     "linkType":"1",
     "folderName":"RayTracedRigs",
-    "image": "https://cdn.discordapp.com/attachments/751767065970475093/1150443418967879731/image.png"
+    "image": "https://cdn.discordapp.com/attachments/751767065970475093/1150443418967879731/image.png",
+    "note":""
   },{
     "name": "1s Detonator and 1s RC Reciever",
     "version": "1.0.0",
@@ -18,7 +19,8 @@
     "link": "git clone https://github.com/KoT3isGood/BRPP",
     "linkType":"1",
     "folderName":"BRPP",
-    "image": "https://cdn.discordapp.com/attachments/1062368535210381394/1148692949639630859/image.png"
+    "image": "https://cdn.discordapp.com/attachments/1062368535210381394/1148692949639630859/image.png",
+    "note":"Has AssetRegisrty, so it doesnt work with other mods"
   },{
     "name": "Vanilla Style Guns",
     "version": "30s",
@@ -28,6 +30,7 @@
     "link": "https://drive.google.com/file/d/19bLVg0dziRKki0su5rdHsDtFRfgWO-Ak/view",
     "linkType":"2",
     "folderName":"VSG30s",
-    "image": "https://streamable.com/i5iu13"
+    "image": "https://streamable.com/i5iu13",
+    "note":"Has AssetRegisrty, so it doesnt work with other mods"
   }]
 }
